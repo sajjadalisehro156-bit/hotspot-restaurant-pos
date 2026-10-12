@@ -1,0 +1,6 @@
+{
+  "name": "Hotspot - Restaurant Reception Billing",
+  "description": "Counter billing and reception POS web application for Hotspot restaurant with offline support, thermal receipt printing, and Google Sheets sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
